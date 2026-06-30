@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atharvgangrade/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/atharvgangrade/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/atharvgangrade/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
