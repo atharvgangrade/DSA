@@ -26,6 +26,7 @@ public:
             
         }
         prev->next=prev->next->next;
+        delete slow;
         return head;
     }
 };
