@@ -21,7 +21,7 @@ public:
         int position=length/2;
         ListNode* prev=NULL;
         ListNode* curr=head;
-        if(head->next == NULL)
+        if(head==NULL || head->next == NULL)
         {
             return NULL;
         }
