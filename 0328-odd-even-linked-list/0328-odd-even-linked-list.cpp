@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        if(head==NULL || head->next==NULL)
+        {
+            return head;
+        }
         vector<int> ans;
         ListNode* temp=head;
         while(temp!= NULL)
