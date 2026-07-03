@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvgangrade/DSA/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/atharvgangrade/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvgangrade/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/atharvgangrade/DSA/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
