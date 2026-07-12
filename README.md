@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/atharvgangrade/DSA/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atharvgangrade/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/atharvgangrade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvgangrade/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/atharvgangrade/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/atharvgangrade/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/atharvgangrade/DSA/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
