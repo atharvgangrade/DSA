@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvgangrade/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/atharvgangrade/DSA/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/atharvgangrade/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
