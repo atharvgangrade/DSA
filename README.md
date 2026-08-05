@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/atharvgangrade/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/atharvgangrade/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/atharvgangrade/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/atharvgangrade/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
