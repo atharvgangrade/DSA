@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvgangrade/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/atharvgangrade/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atharvgangrade/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/atharvgangrade/DSA/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvgangrade/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
