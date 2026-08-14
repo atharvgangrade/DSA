@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atharvgangrade/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/atharvgangrade/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atharvgangrade/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/atharvgangrade/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/atharvgangrade/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3731-find-missing-elements](https://github.com/atharvgangrade/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/atharvgangrade/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/atharvgangrade/DSA/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/atharvgangrade/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
