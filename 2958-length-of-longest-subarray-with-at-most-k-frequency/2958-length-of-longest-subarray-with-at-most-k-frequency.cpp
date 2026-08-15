@@ -6,10 +6,10 @@ public:
         int ans=0;
         for(int right=0; right<nums.size(); right++)
         {
-            freq[nums[right]-1]++;
-            while(freq[nums[right]-1] > k)
+            freq[nums[right]]++;
+            while(freq[nums[right]] > k)
             {
-                freq[nums[left] - 1]--;
+                freq[nums[left] ]--;
                 left++;
             }  
             ans=max(ans , right-left+1);
