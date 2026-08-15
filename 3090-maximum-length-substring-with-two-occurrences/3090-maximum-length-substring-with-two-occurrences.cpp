@@ -1,19 +1,21 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        unordered_map<char,int> freq;
-        int left=0;
-        int ans=0;
-        for(int right=0; right<s.length(); right++)
+        int res=0;
+        for(int left=0; left<s.length(); left++)
         {
-            freq[s[right] - 'a']++;
-            while(freq[s[right] - 'a'] > 2 )
+            vector<int> count(26,0);
+            for(int right=left; right<s.length(); right++)
             {
-                freq[s[left] - 'a']--;
-                left++;
+                int index=s[right]-'a';
+                count[index]++;
+                if(count[index] > 2)
+                {
+                    break;
+                }
+                res=max(res , right-left+1);
             }
-            ans=max(ans , right-left+1);
-        }   
-        return ans;
+        }
+        return res;
     }
 };
