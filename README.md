@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvgangrade/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atharvgangrade/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/atharvgangrade/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/atharvgangrade/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atharvgangrade/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvgangrade/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/atharvgangrade/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/atharvgangrade/DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/atharvgangrade/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/atharvgangrade/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
