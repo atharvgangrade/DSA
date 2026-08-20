@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/atharvgangrade/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/atharvgangrade/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/atharvgangrade/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/atharvgangrade/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/atharvgangrade/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/atharvgangrade/DSA/tree/master/3731-find-missing-elements) |
 ## String
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/atharvgangrade/DSA/tree/master/0844-backspace-string-compare) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/atharvgangrade/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
