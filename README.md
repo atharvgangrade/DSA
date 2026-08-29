@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvgangrade/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/atharvgangrade/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/atharvgangrade/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/atharvgangrade/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/atharvgangrade/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/atharvgangrade/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/atharvgangrade/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/atharvgangrade/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/atharvgangrade/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/atharvgangrade/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvgangrade/DSA/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/atharvgangrade/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/atharvgangrade/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atharvgangrade/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/atharvgangrade/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/atharvgangrade/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/atharvgangrade/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/atharvgangrade/DSA/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/atharvgangrade/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvgangrade/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/atharvgangrade/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -193,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atharvgangrade/DSA/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/atharvgangrade/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
