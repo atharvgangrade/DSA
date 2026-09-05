@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/atharvgangrade/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvgangrade/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/atharvgangrade/DSA/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvgangrade/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/atharvgangrade/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/atharvgangrade/DSA/tree/master/0229-majority-element-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/atharvgangrade/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/atharvgangrade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atharvgangrade/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/atharvgangrade/DSA/tree/master/0217-contains-duplicate) |
