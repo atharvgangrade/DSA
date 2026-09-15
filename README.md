@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atharvgangrade/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/atharvgangrade/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/atharvgangrade/DSA/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/atharvgangrade/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/atharvgangrade/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/atharvgangrade/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/atharvgangrade/DSA/tree/master/1929-concatenation-of-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/atharvgangrade/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/atharvgangrade/DSA/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/atharvgangrade/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvgangrade/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
